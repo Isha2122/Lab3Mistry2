@@ -1,3 +1,12 @@
+/** Project:Lab3Mistry3
+ * Purpose Details:
+ * Course:IST242
+ * Author:Ishaben Mistry
+ * Date Developed:02/27/25
+ * Last Date Changed:
+ * Rev:1
+
+ */
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
